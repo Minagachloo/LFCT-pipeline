@@ -1,1 +1,5 @@
+Overview
+
 This repository contains the code used to prepare the Low-Frame-Rate Cell Tracking (LFCT) benchmark dataset. The pipeline takes a TrackMate annotation XML file and the raw phase-contrast and nuclear fluorescence frames as input. It extracts spot and lineage information, sparsifies the annotations at GAP factors 2, 4, and 8, generates lineage trees, and merges the two channels into a video for each sparsification level.
+
+
