@@ -1,5 +1,4 @@
-Output/*
-!Output/.gitkeep
+Output/*.mp4
 __pycache__/
 *.pyc
 .DS_Store
